@@ -1,0 +1,7 @@
+Aluwihare_DNA13_sorted.bam
+Aluwihare_DNA14_sorted.bam
+Aluwihare_DNA1_sorted.bam
+Aluwihare_DNA2_sorted.bam
+Aluwihare_DNA6_sorted.bam
+Aluwihare_DNA7_sorted.bam
+Aluwihare_DNA8_sorted.bam
