@@ -1,0 +1,7 @@
+Aluwihare_DNA14_contigs.fasta
+Aluwihare_DNA13_contigs.fasta
+Aluwihare_DNA1_contigs.fasta
+Aluwihare_DNA2_contigs.fasta
+Aluwihare_DNA6_contigs.fasta
+Aluwihare_DNA7_contigs.fasta
+Aluwihare_DNA8_contigs.fasta
